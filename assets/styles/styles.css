@@ -1,3 +1,26 @@
 body {
     background-color: pink;
 }
+/* los estilos se recomiendan  que se agreguen de arriba hacia abajo */
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+.colorH2 {
+    color:chartreuse
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 5%;
+}
+
+img:hover{
+    transform: scale(1.1);
+}
